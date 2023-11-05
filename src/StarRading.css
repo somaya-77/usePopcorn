@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.containerStyle {
+    display:flex;
+    align-items: center;
+    gap: "15px"
+
+};
+
+.starContainerStyle { 
+    display: "flex";
+    gap: "5";
+}
+
+
+.styleText{
+    
+    margin-left: 15px;
+    color: #fcc419;
+    font-size: 18px;
+}
+
+.starStyle {
+    /* margin: 0; */
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    cursor: pointer;
+}
